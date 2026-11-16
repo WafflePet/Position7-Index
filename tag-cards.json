@@ -1,0 +1,1300 @@
+[
+  {
+    "name": "Toma Armour Shop (TaG) #1",
+    "number": 1,
+    "numbers": [
+      1
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Building/Toma Armour Shop (TaG) #1.png"
+  },
+  {
+    "name": "CreditCaers (TaG) #2",
+    "number": 2,
+    "numbers": [
+      2
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/CreditCaers (TaG) #2.png"
+  },
+  {
+    "name": "Gold Tools (TaG) #3",
+    "number": 3,
+    "numbers": [
+      3
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Gold Tools (TaG) #3.png"
+  },
+  {
+    "name": "Lavier Hotel (TaG) #4",
+    "number": 4,
+    "numbers": [
+      4
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Building/Lavier Hotel (TaG) #4.png"
+  },
+  {
+    "name": "GoldCredit Road (TaG) #5",
+    "number": 5,
+    "numbers": [
+      5
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Special/GoldCredit Road (TaG) #5.png"
+  },
+  {
+    "name": "GoldCredit Swimming Hall (Golden)(TaG) #6",
+    "number": 6,
+    "numbers": [
+      6
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Building/GoldCredit Swimming Hall (Golden)(TaG) #6.png"
+  },
+  {
+    "name": "GoldCredit Swimming Hall Interior (TaG) #7",
+    "number": 7,
+    "numbers": [
+      7
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/GoldCredit Swimming Hall Interior (TaG) #7.png"
+  },
+  {
+    "name": "Credit Card (CAT) (TaG) #8",
+    "number": 8,
+    "numbers": [
+      8
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Item"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Item/Credit Card (CAT) (TaG) #8.png"
+  },
+  {
+    "name": "Credit Card (Ikabolag) (TaG) #9",
+    "number": 9,
+    "numbers": [
+      9
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Item"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Item/Credit Card (Ikabolag) (TaG) #9.png"
+  },
+  {
+    "name": "Credit Card (Mister) (TaG) #10",
+    "number": 10,
+    "numbers": [
+      10
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Item"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Item/Credit Card (Mister) (TaG) #10.png"
+  },
+  {
+    "name": "St. Patricks Day (Essence) (TaG) #11",
+    "number": 11,
+    "numbers": [
+      11
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Secret",
+      "TaG Item"
+    ],
+    "image": "cards/Trees and Gold/Secret/TaG Item/St. Patricks Day (Essence) (TaG) #11.png"
+  },
+  {
+    "name": "Ralford Restaurant (TaG) #12",
+    "number": 12,
+    "numbers": [
+      12
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Building/Ralford Restaurant (TaG) #12.png"
+  },
+  {
+    "name": "Ralford Restaurant (Golden) (TaG) #13",
+    "number": 13,
+    "numbers": [
+      13
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Building/Ralford Restaurant (Golden) (TaG) #13.png"
+  },
+  {
+    "name": "Teleporting Tree (TaG) #14",
+    "number": 14,
+    "numbers": [
+      14
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Insane",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Insane/TaG Special/Teleporting Tree (TaG) #14.png"
+  },
+  {
+    "name": "BigBirch (Golden) (TaG) #15",
+    "number": 15,
+    "numbers": [
+      15
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Building/BigBirch (Golden) (TaG) #15.png"
+  },
+  {
+    "name": "BigOak (Golden) (TaG) #16",
+    "number": 16,
+    "numbers": [
+      16
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Building/BigOak (Golden) (TaG) #16.png"
+  },
+  {
+    "name": "SpruceBig (Golden) (TaG)# #17",
+    "number": 17,
+    "numbers": [
+      17
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/SpruceBig (Golden) (TaG)# #17.png"
+  },
+  {
+    "name": "BigJungle (Golden) (TaG) #18",
+    "number": 18,
+    "numbers": [
+      18
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/BigJungle (Golden) (TaG) #18.png"
+  },
+  {
+    "name": "BigDark (Golden) (TaG) #19",
+    "number": 19,
+    "numbers": [
+      19
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/BigDark (Golden) (TaG) #19.png"
+  },
+  {
+    "name": "BigMangrove (Golden) (TaG) #20",
+    "number": 20,
+    "numbers": [
+      20
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/BigMangrove (Golden) (TaG) #20.png"
+  },
+  {
+    "name": "BigCherry (Golden) (TaG) #21",
+    "number": 21,
+    "numbers": [
+      21
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/BigCherry (Golden) (TaG) #21.png"
+  },
+  {
+    "name": "BigPale (Golden) (TaG) #22",
+    "number": 22,
+    "numbers": [
+      22
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/BigPale (Golden) (TaG) #22.png"
+  },
+  {
+    "name": "BigBamboo (Golden) (TaG) #23",
+    "number": 23,
+    "numbers": [
+      23
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Building/BigBamboo (Golden) (TaG) #23.png"
+  },
+  {
+    "name": "Cabonga Central Park (TaG) #24",
+    "number": 24,
+    "numbers": [
+      24
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Special/Cabonga Central Park (TaG) #24.png"
+  },
+  {
+    "name": "Will's Trees (TaG) #25",
+    "number": 25,
+    "numbers": [
+      25
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Image/Will's Trees (TaG) #25.png"
+  },
+  {
+    "name": "Ralford Wooden Houses (TaG) #26",
+    "number": 26,
+    "numbers": [
+      26
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Image/Ralford Wooden Houses (TaG) #26.png"
+  },
+  {
+    "name": "Ralford Trees (TaG) #27",
+    "number": 27,
+    "numbers": [
+      27
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Image/Ralford Trees (TaG) #27.png"
+  },
+  {
+    "name": "Doonderford Trees (TaG) #28",
+    "number": 28,
+    "numbers": [
+      28
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Image/Doonderford Trees (TaG) #28.png"
+  },
+  {
+    "name": "Supelo Trees (TaG) #29",
+    "number": 29,
+    "numbers": [
+      29
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Image/Supelo Trees (TaG) #29.png"
+  },
+  {
+    "name": "Chaplant Trees (TaG) #30",
+    "number": 30,
+    "numbers": [
+      30
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Image/Chaplant Trees (TaG) #30.png"
+  },
+  {
+    "name": "Gardham Trees (TaG) #31",
+    "number": 31,
+    "numbers": [
+      31
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Image/Gardham Trees (TaG) #31.png"
+  },
+  {
+    "name": "Gardham Trees (Golden) (TaG) #32",
+    "number": 32,
+    "numbers": [
+      32
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Image/Gardham Trees (Golden) (TaG) #32.png"
+  },
+  {
+    "name": "East Cabonga Trees (TaG) #33",
+    "number": 33,
+    "numbers": [
+      33
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Image/East Cabonga Trees (TaG) #33.png"
+  },
+  {
+    "name": "South Cabonga Trees (TaG) #34",
+    "number": 34,
+    "numbers": [
+      34
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Image/South Cabonga Trees (TaG) #34.png"
+  },
+  {
+    "name": "Cabonga Trees (TaG) #35",
+    "number": 35,
+    "numbers": [
+      35
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Image/Cabonga Trees (TaG) #35.png"
+  },
+  {
+    "name": "Cabonga Trees (Golden) (TaG) #36",
+    "number": 36,
+    "numbers": [
+      36
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Image/Cabonga Trees (Golden) (TaG) #36.png"
+  },
+  {
+    "name": "Gold, Gold and Gold (TaG) #37",
+    "number": 37,
+    "numbers": [
+      37
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Building/Gold, Gold and Gold (TaG) #37.png"
+  },
+  {
+    "name": "Gold, Gold and Gold (Interior) (TaG) #38",
+    "number": 38,
+    "numbers": [
+      38
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Building/Gold, Gold and Gold (Interior) (TaG) #38.png"
+  },
+  {
+    "name": "The Special Store (TaG) #39",
+    "number": 39,
+    "numbers": [
+      39
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/The Special Store (TaG) #39.png"
+  },
+  {
+    "name": "Swango Forest March 2026 (TaG) #40",
+    "number": 40,
+    "numbers": [
+      40
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG City"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG City/Swango Forest March 2026 (TaG) #40.png"
+  },
+  {
+    "name": "Jungle Tree (TaG) #41",
+    "number": 41,
+    "numbers": [
+      41
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Special/Jungle Tree (TaG) #41.png"
+  },
+  {
+    "name": "Jungle Tree Silver (TaG) #42",
+    "number": 42,
+    "numbers": [
+      42
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Special/Jungle Tree Silver (TaG) #42.png"
+  },
+  {
+    "name": "Oak Tree (TaG) #43",
+    "number": 43,
+    "numbers": [
+      43
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Special/Oak Tree (TaG) #43.png"
+  },
+  {
+    "name": "Oak Tree Silver (TaG) #44",
+    "number": 44,
+    "numbers": [
+      44
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Special/Oak Tree Silver (TaG) #44.png"
+  },
+  {
+    "name": "Birch Tree (TaG) #45",
+    "number": 45,
+    "numbers": [
+      45
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Special/Birch Tree (TaG) #45.png"
+  },
+  {
+    "name": "Spruce Tree (TaG) #46",
+    "number": 46,
+    "numbers": [
+      46
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Special/Spruce Tree (TaG) #46.png"
+  },
+  {
+    "name": "Spruce Tree Silver (TaG) #47",
+    "number": 47,
+    "numbers": [
+      47
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Special/Spruce Tree Silver (TaG) #47.png"
+  },
+  {
+    "name": "Acacia Tree (TaG) #48",
+    "number": 48,
+    "numbers": [
+      48
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Special/Acacia Tree (TaG) #48.png"
+  },
+  {
+    "name": "Acacia Tree Silver (TaG) #49",
+    "number": 49,
+    "numbers": [
+      49
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Special/Acacia Tree Silver (TaG) #49.png"
+  },
+  {
+    "name": "Lighthouse Trees (TaG) #50",
+    "number": 50,
+    "numbers": [
+      50
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Image/Lighthouse Trees (TaG) #50.png"
+  },
+  {
+    "name": "Lighthouse Trees (TaG) Silver #51",
+    "number": 51,
+    "numbers": [
+      51
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Image/Lighthouse Trees (TaG) Silver #51.png"
+  },
+  {
+    "name": "Acaica Tree (Backyard) (TaG) #52",
+    "number": 52,
+    "numbers": [
+      52
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Special/Acaica Tree (Backyard) (TaG) #52.png"
+  },
+  {
+    "name": "Cherry Tree (TaG) #53",
+    "number": 53,
+    "numbers": [
+      53
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Special/Cherry Tree (TaG) #53.png"
+  },
+  {
+    "name": "Treegoll Star (TaG) #54",
+    "number": 54,
+    "numbers": [
+      54
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Insane",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Insane/TaG Special/Treegoll Star (TaG) #54.png"
+  },
+  {
+    "name": "Valma Market (TaG) #55",
+    "number": 55,
+    "numbers": [
+      55
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/Valma Market (TaG) #55.png"
+  },
+  {
+    "name": "Benny's Bows (TaG) #56",
+    "number": 56,
+    "numbers": [
+      56
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Benny's Bows (TaG) #56.png"
+  },
+  {
+    "name": "Benny's Bows Silver (TaG) #57",
+    "number": 57,
+    "numbers": [
+      57
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Benny's Bows Silver (TaG) #57.png"
+  },
+  {
+    "name": "Booker's Book Store (TaG) #58",
+    "number": 58,
+    "numbers": [
+      58
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Booker's Book Store (TaG) #58.png"
+  },
+  {
+    "name": "The First Tree Chop (TaG) #59",
+    "number": 59,
+    "numbers": [
+      59
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Moment"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Moment/The First Tree Chop (TaG) #59.png"
+  },
+  {
+    "name": "The First Tree Chop Silver (TaG) #60",
+    "number": 60,
+    "numbers": [
+      60
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Moment"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Moment/The First Tree Chop Silver (TaG) #60.png"
+  },
+  {
+    "name": "Ralford (Golden Road) March 2026 (TaG) #61",
+    "number": 61,
+    "numbers": [
+      61
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG City"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG City/Ralford (Golden Road) March 2026 (TaG) #61.png"
+  },
+  {
+    "name": "Ralford (Golden Road) March 2026 (TaG) Silver #62",
+    "number": 62,
+    "numbers": [
+      62
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG City"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG City/Ralford (Golden Road) March 2026 (TaG) Silver #62.png"
+  },
+  {
+    "name": "Doonderford (Golden Road) March 2026 (TaG) #63",
+    "number": 63,
+    "numbers": [
+      63
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG City"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG City/Doonderford (Golden Road) March 2026 (TaG) #63.png"
+  },
+  {
+    "name": "Doonderford (Golden Road) March 2026 (TaG) Silver #64",
+    "number": 64,
+    "numbers": [
+      64
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG City"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG City/Doonderford (Golden Road) March 2026 (TaG) Silver #64.png"
+  },
+  {
+    "name": "Jungi's Fish (TaG) #65",
+    "number": 65,
+    "numbers": [
+      65
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Building/Jungi's Fish (TaG) #65.png"
+  },
+  {
+    "name": "Jungi's Fish Silver (TaG) #66",
+    "number": 66,
+    "numbers": [
+      66
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Building/Jungi's Fish Silver (TaG) #66.png"
+  },
+  {
+    "name": "WafflePet (Lumberjack) (TaG) #67",
+    "number": 67,
+    "numbers": [
+      67
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Character/WafflePet (Lumberjack) (TaG) #67.png"
+  },
+  {
+    "name": "WafflePet (Golden) (TaG) #68",
+    "number": 68,
+    "numbers": [
+      68
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Character/WafflePet (Golden) (TaG) #68.png"
+  },
+  {
+    "name": "Biggy (Lumberjack) (TaG) #69",
+    "number": 69,
+    "numbers": [
+      69
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Character/Biggy (Lumberjack) (TaG) #69.png"
+  },
+  {
+    "name": "Biggy (Lumberjack) Silver (TaG) #70",
+    "number": 70,
+    "numbers": [
+      70
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Character/Biggy (Lumberjack) Silver (TaG) #70.png"
+  },
+  {
+    "name": "Restor (Lumberjack) (TaG) #71",
+    "number": 71,
+    "numbers": [
+      71
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Secret",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Secret/TaG Character/Restor (Lumberjack) (TaG) #71.png"
+  },
+  {
+    "name": "Restor (Lumberjack) Silver (TaG) #72",
+    "number": 72,
+    "numbers": [
+      72
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Secret",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Secret/TaG Character/Restor (Lumberjack) Silver (TaG) #72.png"
+  },
+  {
+    "name": "Restor (Treegoll Star) (TaG) #73",
+    "number": 73,
+    "numbers": [
+      73
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Insane",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Insane/TaG Character/Restor (Treegoll Star) (TaG) #73.png"
+  },
+  {
+    "name": "Steve. (TaG) #74",
+    "number": 74,
+    "numbers": [
+      74
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Character/Steve. (TaG) #74.png"
+  },
+  {
+    "name": "Steve. Silver (TaG) #75",
+    "number": 75,
+    "numbers": [
+      75
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Character/Steve. Silver (TaG) #75.png"
+  },
+  {
+    "name": "Goat Guy (TaG) #76",
+    "number": 76,
+    "numbers": [
+      76
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Character/Goat Guy (TaG) #76.png"
+  },
+  {
+    "name": "Gold Mine (TaG) #77",
+    "number": 77,
+    "numbers": [
+      77
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Special/Gold Mine (TaG) #77.png"
+  },
+  {
+    "name": "Gold Mine Silver (TaG) #78",
+    "number": 78,
+    "numbers": [
+      78
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Special/Gold Mine Silver (TaG) #78.png"
+  },
+  {
+    "name": "Sammy The Seagull (TaG) #79",
+    "number": 79,
+    "numbers": [
+      79
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Celestial",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Celestial/TaG Special/Sammy The Seagull (TaG) #79.png"
+  },
+  {
+    "name": "BigMaterials HQ (Golden Sky) (TaG) #80",
+    "number": 80,
+    "numbers": [
+      80
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Secret",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Secret/TaG Building/BigMaterials HQ (Golden Sky) (TaG) #80.png"
+  },
+  {
+    "name": "Golden Cargo (TaG) #81",
+    "number": 81,
+    "numbers": [
+      81
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Special/Golden Cargo (TaG) #81.png"
+  },
+  {
+    "name": "Golden Cargo Silver (TaG) #82",
+    "number": 82,
+    "numbers": [
+      82
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Special/Golden Cargo Silver (TaG) #82.png"
+  },
+  {
+    "name": "Aslma Market (TaG) #83",
+    "number": 83,
+    "numbers": [
+      83
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Aslma Market (TaG) #83.png"
+  },
+  {
+    "name": "Aslma Market Silver (TaG) #84",
+    "number": 84,
+    "numbers": [
+      84
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Aslma Market Silver (TaG) #84.png"
+  },
+  {
+    "name": "Aslma Market (Golden) (TaG) #85",
+    "number": 85,
+    "numbers": [
+      85
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Building/Aslma Market (Golden) (TaG) #85.png"
+  },
+  {
+    "name": "Goat Guy (Lumberjack) (TaG) #86",
+    "number": 86,
+    "numbers": [
+      86
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Character/Goat Guy (Lumberjack) (TaG) #86.png"
+  },
+  {
+    "name": "Goat Guy (Lumberjack) Silver (TaG) #87",
+    "number": 87,
+    "numbers": [
+      87
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Character/Goat Guy (Lumberjack) Silver (TaG) #87.png"
+  },
+  {
+    "name": "Goat Guy (Golden) (TaG) #88",
+    "number": 88,
+    "numbers": [
+      88
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Character"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Character/Goat Guy (Golden) (TaG) #88.png"
+  },
+  {
+    "name": "Biggy's Art Shop (TaG) #89",
+    "number": 89,
+    "numbers": [
+      89
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Building/Biggy's Art Shop (TaG) #89.png"
+  },
+  {
+    "name": "Biggy's Art Shop Silver (TaG) #90",
+    "number": 90,
+    "numbers": [
+      90
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Building/Biggy's Art Shop Silver (TaG) #90.png"
+  },
+  {
+    "name": "Mushroom Houses (TaG) #91",
+    "number": 91,
+    "numbers": [
+      91
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Image/Mushroom Houses (TaG) #91.png"
+  },
+  {
+    "name": "Gardham Florist (TaG) #92",
+    "number": 92,
+    "numbers": [
+      92
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/Gardham Florist (TaG) #92.png"
+  },
+  {
+    "name": "Gardham Florist Silver (TaG) #93",
+    "number": 93,
+    "numbers": [
+      93
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Common",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Common/TaG Building/Gardham Florist Silver (TaG) #93.png"
+  },
+  {
+    "name": "Gardham Station (TaG) #94",
+    "number": 94,
+    "numbers": [
+      94
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Gardham Station (TaG) #94.png"
+  },
+  {
+    "name": "Military Trees (TaG) #95",
+    "number": 95,
+    "numbers": [
+      95
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Rare",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Rare/TaG Image/Military Trees (TaG) #95.png"
+  },
+  {
+    "name": "Golden Crossing (TaG) #96",
+    "number": 96,
+    "numbers": [
+      96
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Epic",
+      "TaG Image"
+    ],
+    "image": "cards/Trees and Gold/Epic/TaG Image/Golden Crossing (TaG) #96.png"
+  },
+  {
+    "name": "Supelo Station (TaG) #97",
+    "number": 97,
+    "numbers": [
+      97
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Uncommon",
+      "TaG Building"
+    ],
+    "image": "cards/Trees and Gold/Uncommon/TaG Building/Supelo Station (TaG) #97.png"
+  },
+  {
+    "name": "Trees (TaG) #98",
+    "number": 98,
+    "numbers": [
+      98
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Special/Trees (TaG) #98.png"
+  },
+  {
+    "name": "Gold (TaG) #99",
+    "number": 99,
+    "numbers": [
+      99
+    ],
+    "folder": [
+      "Trees and Gold",
+      "Legendary",
+      "TaG Special"
+    ],
+    "image": "cards/Trees and Gold/Legendary/TaG Special/Gold (TaG) #99.png"
+  },
+  {
+    "name": "Trees And Gold Badge Marked (Badge) (TaG) #100",
+    "number": 100,
+    "numbers": [
+      100
+    ],
+    "folder": [
+      "Trees and Gold"
+    ],
+    "image": "cards/Trees and Gold/Trees And Gold Badge Marked (Badge) (TaG) #100.png"
+  }
+]

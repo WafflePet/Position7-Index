@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treegoll Card Index</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <button id="scroll-bottom-button">
+    ↓ Scroll to Bottom
+</button>
+
+<div class="app-shell">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+        <div class="brand">
+            <div class="brand-icon">🌳</div>
+            <div>
+                <h2>Treegoll</h2>
+                <p>Card Index</p>
+            </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <p class="sidebar-label">COLLECTIONS</p>
+
+        <nav class="collection-tabs">
+
+            <button class="collection-tab active" data-collection="main">
+                <span class="tab-icon">▦</span>
+                <span>Main Set</span>
+            </button>
+
+            <button class="collection-tab" data-collection="forged">
+                <span class="tab-icon">✦</span>
+                <span>Forged</span>
+            </button>
+
+            <button class="collection-tab" data-collection="tag">
+                <span class="tab-icon">🌲</span>
+                <span>Trees and Gold</span>
+            </button>
+
+               </nav>
+               <button id="statistics-nav-button" class="sidebar-nav-button" type="button">
+    <span class="tab-icon">▤</span>
+    <span>Statistics</span>
+</button>
+
+        <!-- WISHLIST -->
+        <div class="sidebar-wishlist-section">
+
+            <div class="sidebar-wishlist-heading">
+                <p class="sidebar-label">WISHLIST</p>
+                <span id="wishlist-count">0</span>
+            </div>
+
+            <div id="sidebar-wishlist" class="sidebar-wishlist">
+                <p class="wishlist-empty">Nothing wishlisted yet.</p>
+            </div>
+
+        </div>
+
+        <div class="sidebar-bottom">
+            <div class="sidebar-divider"></div>
+            <p>THE OFFICIAL TREEGOLL TRADING CARD INDEX</p>
+            <span class="version-label">COLLECTOR DATABASE</span>
+        </div>
+
+    </aside>
+
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+
+        <!-- TOP HEADER -->
+        <header class="topbar">
+
+            <div>
+                <p class="eyebrow">TRADING CARD DATABASE</p>
+                <h1>Card Collection</h1>
+                <p class="topbar-description">
+                    Explore and keep track of your Treegoll cards.
+                </p>
+            </div>
+
+                        <button id="sidebar-toggle" class="sidebar-toggle"
+                    type="button" aria-expanded="true">
+                ☰ Hide Sidebar
+            </button>
+
+            <div class="topbar-badge">
+                <span>●</span> TREEGOLL
+            </div>
+
+        </header>
+
+
+        <!-- COLLECTION OVERVIEW -->
+        <section class="collection-info">
+
+            <div class="collection-heading">
+                <div>
+                    <p class="section-label">CURRENT COLLECTION</p>
+                    <h2 id="collection-title">Main Set</h2>
+                </div>
+
+                <div class="collection-percent-box">
+                    <span id="collection-percent">0%</span>
+                    <p>COMPLETED</p>
+                </div>
+            </div>
+
+            <div class="collection-stats">
+                <span id="collection-count">0 / 1677 cards collected</span>
+            </div>
+
+            <div class="progress-bar">
+                <div id="progress-fill"></div>
+            </div>
+
+        </section>
+
+
+        <!-- SEARCH AND FILTERS -->
+        <section class="controls">
+
+            <div class="search-wrapper">
+                <span>⌕</span>
+
+                <input
+                    type="text"
+                    id="search"
+                    placeholder="Search cards by name or number..."
+                >
+            </div>
+
+            <select id="ownership-filter">
+                <option value="all">All Cards</option>
+                <option value="owned">Owned</option>
+                <option value="missing">Not Owned</option>
+                <option value="wishlist">Wishlist</option>
+            </select>
+
+            <select id="sort-filter">
+                <option value="number">Sort: Card Number</option>
+                <option value="rarity">Sort: Rarity</option>
+                <option value="category">Sort: Category</option>
+                <option value="type">Sort: Type</option>
+            </select>
+
+        </section>
+        <!-- STATISTICS DASHBOARD -->
+<section id="statistics-view" class="statistics-view" hidden>
+
+    <div class="statistics-heading">
+        <p class="section-label">TREEGOLL COLLECTION ANALYTICS</p>
+        <h2>Statistics Overview</h2>
+        <p>Explore your collecting progress across Treegoll.</p>
+    </div>
+
+    <!-- OVERVIEW NUMBERS -->
+    <div class="statistics-overview">
+
+        <article class="stat-card">
+            <p>Total Cards</p>
+            <strong id="stat-total-cards">0</strong>
+            <small>Across all collections</small>
+        </article>
+
+        <article class="stat-card">
+            <p>Unique Cards Owned</p>
+            <strong id="stat-owned-cards">0</strong>
+            <small>Different cards collected</small>
+        </article>
+
+        <article class="stat-card">
+            <p>Overall Completion</p>
+            <strong id="stat-completion">0%</strong>
+            <small>Of the entire index</small>
+        </article>
+
+        <article class="stat-card">
+            <p>Total Copies</p>
+            <strong id="stat-total-copies">0</strong>
+            <small>Including duplicates</small>
+        </article>
+
+        <article class="stat-card">
+            <p>Extra Copies</p>
+            <strong id="stat-extra-copies">0</strong>
+            <small>Copies beyond the first</small>
+        </article>
+
+        <article class="stat-card">
+            <p>Cards With Duplicates</p>
+            <strong id="stat-duplicate-cards">0</strong>
+            <small>Different cards with 2+ copies</small>
+        </article>
+
+    </div>
+
+
+    <!-- COLLECTION PROGRESS -->
+    <section class="statistics-panel">
+
+        <h3>Collection Progress</h3>
+        <p class="stats-description">Your progress in each collection.</p>
+
+        <div id="stats-collections" class="stats-collection-list"></div>
+
+    </section>
+
+
+    <!-- RARITY AND CATEGORY -->
+    <div class="statistics-columns">
+
+        <section class="statistics-panel">
+
+            <h3>Owned Cards by Rarity</h3>
+            <p class="stats-description">Which rarities have you collected?</p>
+
+            <div id="stats-rarity-list" class="stats-breakdown-list"></div>
+
+        </section>
+
+
+        <section class="statistics-panel">
+
+            <h3>Owned Cards by Category</h3>
+            <p class="stats-description">What kinds of cards do you own?</p>
+
+            <div id="stats-category-list" class="stats-breakdown-list"></div>
+
+        </section>
+
+    </div>
+
+
+    <!-- DUPLICATES -->
+    <section class="statistics-panel">
+        <h3>Duplicate Highlights</h3>
+        <p class="stats-description">A look at your duplicate collection.</p>
+        
+
+        <div id="stats-duplicate-summary"></div>
+        <div id="stats-most-duplicated" class="stats-duplicate-highlight"></div>
+
+    </section>
+
+</section>
+
+
+        <!-- CARD GALLERY -->
+        <section class="card-section">
+
+            <div class="card-section-heading">
+                <div>
+                    <p class="section-label">YOUR DATABASE</p>
+                    <h2 id="card-section-title">Main Set Cards</h2>
+                </div>
+            </div>
+
+            <div id="card-grid" class="card-grid"></div>
+
+        </section>
+
+    </main>
+
+</div>
+
+
+<!-- CARD DETAILS POPUP -->
+<div id="card-modal" class="modal">
+
+    <div class="modal-content">
+
+        <button id="modal-close" class="modal-close">
+            ×
+        </button>
+
+        <div class="modal-layout">
+
+            <div class="modal-image-container">
+                <img id="modal-image" class="modal-image">
+            </div>
+
+            <div class="modal-details">
+
+                <p class="section-label">CARD INFORMATION</p>
+
+                <h2 id="modal-title">Card Details</h2>
+
+                <p id="modal-number"></p>
+                <p id="modal-rarity"></p>
+                <p id="modal-category"></p>
+                <p id="modal-type"></p>
+                <p id="modal-copies"></p>
+
+                <button id="wishlist-button" class="wishlist-button">
+                    ⭐ Add to Wishlist
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
