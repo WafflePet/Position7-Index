@@ -424,10 +424,9 @@ function displayCards() {
 
         const owned = (ownedCards[card.image] || 0) > 0;
 
-        const imageUrl = card.image
-            .split("/")
-            .map(part => encodeURIComponent(part))
-            .join("/");
+        const filename = card.image.split("/").pop();
+
+const imageUrl = "cards/" + encodeURIComponent(filename);
 
         const element = document.createElement("div");
 
@@ -579,12 +578,11 @@ function openCardDetails(card) {
 
     // CARD IMAGE
 
-    const imageUrl = card.image
-        .split("/")
-        .map(part => encodeURIComponent(part))
-        .join("/");
+    const filename = card.image.split("/").pop();
 
-    image.src = imageUrl;
+const imageUrl = "cards/" + encodeURIComponent(filename);
+
+image.src = imageUrl;
 
     image.alt = owned ? card.name : "Hidden card";
 
